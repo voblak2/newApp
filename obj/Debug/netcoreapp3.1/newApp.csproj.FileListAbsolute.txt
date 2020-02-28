@@ -1,0 +1,10 @@
+/Users/vinceoblak/Desktop/ProgrammingC#/newApp/bin/Debug/netcoreapp3.1/newApp.deps.json
+/Users/vinceoblak/Desktop/ProgrammingC#/newApp/bin/Debug/netcoreapp3.1/newApp.runtimeconfig.json
+/Users/vinceoblak/Desktop/ProgrammingC#/newApp/bin/Debug/netcoreapp3.1/newApp.runtimeconfig.dev.json
+/Users/vinceoblak/Desktop/ProgrammingC#/newApp/bin/Debug/netcoreapp3.1/newApp.dll
+/Users/vinceoblak/Desktop/ProgrammingC#/newApp/bin/Debug/netcoreapp3.1/newApp.pdb
+/Users/vinceoblak/Desktop/ProgrammingC#/newApp/obj/Debug/netcoreapp3.1/newApp.csprojAssemblyReference.cache
+/Users/vinceoblak/Desktop/ProgrammingC#/newApp/obj/Debug/netcoreapp3.1/newApp.AssemblyInfoInputs.cache
+/Users/vinceoblak/Desktop/ProgrammingC#/newApp/obj/Debug/netcoreapp3.1/newApp.AssemblyInfo.cs
+/Users/vinceoblak/Desktop/ProgrammingC#/newApp/obj/Debug/netcoreapp3.1/newApp.dll
+/Users/vinceoblak/Desktop/ProgrammingC#/newApp/obj/Debug/netcoreapp3.1/newApp.pdb
