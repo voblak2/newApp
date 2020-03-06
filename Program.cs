@@ -6,15 +6,15 @@ namespace newApp
     {
         static void Main(string[] args)
         {
-            
-            int sum;
-            sum = 2 + 2;
+            bool isOpen = true;
 
-            int newSum;
-            newSum = sum + 10;
-
-            Console.WriteLine(sum);
-            Console.WriteLine(newSum);  
+            if (isOpen) {
+             Console.WriteLine("Yay!");
+            }
+                else 
+                {
+                    Console.WriteLine("Sad day");
+                }
         }
     }
 }
