@@ -7,14 +7,15 @@ namespace newApp
         static void Main(string[] args)
         {
             
-            int sum;
-            sum = 2 + 2;
+            bool isSunny = true;
 
-            int newSum;
-            newSum = sum + 10;
-
-            Console.WriteLine(sum);
-            Console.WriteLine(newSum);  
+            if (isSunny)
+            {
+                Console.WriteLine("Wear sunglasses!");
+            } else
+            {
+                Console.WriteLine("You don't need to wear sunglasses.");
+            }   
         }
     }
 }
